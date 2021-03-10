@@ -20,7 +20,7 @@ class Home extends Backend {
 	 */
 	public function index()
 	{
-
+		//ss
 		$this->template->view('dashboard',$this->data);
 
 	}
