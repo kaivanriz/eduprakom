@@ -4,8 +4,9 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 # Node artifact files
-node_modules/
+public/assets/node_modules/
 dist/
+application/vendor/
 
 # Compiled Java class files
 *.class
@@ -47,4 +48,3 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-
